@@ -1,9 +1,37 @@
-# exercise 02
+# exercise_02
 ```phython
-import turtle
-for i in range(20):
-    turtle.forward(100)
-    turtle.right(80)
-    turtle.clear()
-    turtle.write("
-马晓宝",font=("Times",20,"bold"))
+#TO SHOW STRING "I LIKE YOU!" IN THE WINDOWS CONSOLE
+import os
+import time
+#windows console width
+width = 79
+#
+printedMessage = 
+[ '   ＃＃＃＃＃＃＃＃＃＃＃＃                                         ＃＃　　　　　　　　　　　　　　　 ＃＃'，
+  '     ＃＃＃＃＃＃＃＃＃＃＃　　　　　　　　　 ＃＃＃＃＃＃　　　＃＃＃＃＃＃＃＃＃＃　　　　　＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃'，
+  '         　 ＃＃　　  ＃＃  　　　　　　　　 ＃＃    ＃＃　　　＃＃＃＃＃＃＃＃＃＃　　　　＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃'，
+  '           ＃＃      ＃＃　　　　　　　　　　＃＃　　＃＃　　　　　　　 ＃＃　　　　　　   ＃＃　　　　　　　　　　　　＃＃'，
+  '    　     ＃＃      ＃＃                  ＃＃　　＃＃　　　　　　　　＃＃　＃＃　　　　　＃　　＃＃＃＃＃＃＃＃＃　　＃'，
+  '    　     ＃＃　　  ＃＃                  ＃＃　　＃＃　　　　　　　　＃＃＃＃　　　　　　　　　＃＃＃＃＃＃＃＃＃'，
+  '          ＃＃＃＃＃＃＃＃＃＃＃＃          ＃＃＃＃＃＃             ＃＃＃＃　　　　　　　　　　　　　　＃＃'，
+  '         ＃＃＃＃＃＃＃＃＃＃＃＃＃         ＃＃　　＃＃　　　　　　　　   ＃＃                 ＃＃＃＃＃＃＃＃＃＃'，
+  '                            ＃＃　        ＃＃　　＃＃　　＃＃＃＃＃＃＃＃＃＃＃＃　　　　　　　＃＃＃＃＃＃＃＃＃＃'，
+  '  ＃＃＃＃＃＃＃＃＃＃＃＃    ＃＃          ＃＃　　＃＃　　　　　　＃＃　＃＃　　　　　　　　　　　　　　＃＃　　'，
+  '　 ＃＃＃＃＃＃＃＃＃＃＃＃  ＃＃           ＃＃　　＃＃　　　　　＃＃　　＃＃　　　　　　　　　　　　　　＃＃　　　＃'，
+  '                          ＃＃　          ＃＃＃＃＃＃        ＃＃     ＃＃　　　＃　　　　　　　　　　＃＃　　 ＃＃'，
+  '         　　　　　　　＃＃＃＃            　　　　　　　     ＃＃　    ＃＃　　　＃＃　　＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃'，
+  '        　　　　　　　　＃＃＃　　　　　　　　　　　　　　　　＃　　　　　＃＃＃＃＃＃＃　　＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃'，］
+
+offset = width
+#
+while True:
+    os.system("cls")
+    for row in range(7):
+        print(" " * offset + printedMessage[row][max(0,offset*-1):width - offset])
+        #
+    offset -= 1
+    if offset <= len(printedMessage[0]) * -1:
+        offset = width
+    #
+    time.sleep(0.05)
+    #
