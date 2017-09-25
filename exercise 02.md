@@ -1,10 +1,10 @@
 # exercise_02
 ```phython
-#TO SHOW STRING "I LIKE YOU!" IN THE WINDOWS CONSOLE
+#TO SHOW STRING "马晓宝" IN THE WINDOWS CONSOLE
 import os
 import time
 #windows console width
-width = 79
+width = 100
 #
 printedMessage = 
 [ '   ＃＃＃＃＃＃＃＃＃＃＃＃                                         ＃＃　　　　　　　　　　　　　　　 ＃＃'，
@@ -26,7 +26,7 @@ offset = width
 #
 while True:
     os.system("cls")
-    for row in range(7):
+    for row in range(15):
         print(" " * offset + printedMessage[row][max(0,offset*-1):width - offset])
         #
     offset -= 1
