@@ -14,6 +14,8 @@ According to Taylor Formula:
 ![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/2.jpg)
 
 put  it into (1.9):
+![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/(I58~9ERJN_%40NLLLR9W8C0I.png)
+
 ## Source code:
 for the specific code
 [Source code](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/code%204.py)
