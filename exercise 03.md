@@ -1,3 +1,4 @@
+
 # Exercise_03
 ## Background:
 The position of an object moving horizontally with a constant velocity, v, is described by the equation 
@@ -7,6 +8,8 @@ The position of an object moving horizontally with a constant velocity, v, is de
 Assuming that the velocity is a constant, say , use the Euler method to solve (1.9) for  as a function of time. Compare your result with the exact solution.
 ## Numberical Approach:
 According to the question, we can get :
+
+
 ![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/1.jpg)
 
 
