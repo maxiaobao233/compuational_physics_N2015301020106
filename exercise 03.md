@@ -1,6 +1,6 @@
 # Exercise_03
 ## Background:
-![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/%25P2SKTP3LU1E_)IRSV%608JYF.png)
+
 ## Numberical Approach:
 According to the question, we can get :
 ![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/1.jpg)
