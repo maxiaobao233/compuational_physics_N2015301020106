@@ -12,7 +12,7 @@
 
 可以判断出距离最远时角度在30到50度之间 再用下述程序求出最远距离
 
-[程序_02](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/code%206.py)
+[程序_02](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/code%207.py)
 
 ## 结论
 角度为40度时，最远距离为24522m
