@@ -71,6 +71,6 @@
  
  
  ## 计算程序：
- [code](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/code8.py)
+ [计算程序代码](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/code8.py)
 
 
