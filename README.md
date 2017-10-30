@@ -9,3 +9,5 @@
 [exercise](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/Exercise_04.md)
 ## Exercise_05
 [exercise](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/Exercise_05.md)
+## Exercise_06
+[exercise](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/Exercise_06.md)
