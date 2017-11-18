@@ -8,15 +8,14 @@ Though there is chaos in the graph of theta and t, but the pendulum quickly sett
  As we all know that there is the limitation of the significant digits, the number of the points on the poincare section will be affected. Because thre may be several pointts which are really close (in fact they should have been plotted at the same place for the reason of computational accuracy), we should choose proper limits of x and y axis. When we calculate the motion of the pendulum, we have use a given step. But we need to choose several w and t at the same phase in the period. We'd better change the period of the driving force in order to make the period a integer. So that we can always find the w in the same phase which is also calculated in the last circle.
  ### Output
  #### Poincare sections with different FD
- [CODE1]()
+ [CODE1](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/code8.1.py)
  
  We have calculate the motion for several FD, where the behaviors are period 1,2,3. 
  ![](https://github.com/yyx1996/computational_physics_N2015301020105/raw/master/pic8-1.png)
  ![](https://github.com/yyx1996/computational_physics_N2015301020105/raw/master/pic8-2.png)
  ![](https://github.com/yyx1996/computational_physics_N2015301020105/raw/master/pic8-3.png)
  #### Poincare sections with different angular frequency
- [CODE2]()
- 
+ [CODE2]
  ![](https://github.com/yyx1996/computational_physics_N2015301020105/raw/master/pic8-4.png)
  ![](https://github.com/yyx1996/computational_physics_N2015301020105/raw/master/pic8-5.png)
  ### Conclusion
