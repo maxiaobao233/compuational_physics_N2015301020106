@@ -11,4 +11,4 @@ Hence,the velocity after reflection from the wall is
 ![](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/pic9-3.png)
 ## Output
 ![](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/pic9-4.png)
-[CODE]()
+[CODE](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/CODE.py)
