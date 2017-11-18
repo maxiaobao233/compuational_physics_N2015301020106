@@ -12,11 +12,17 @@ Though there is chaos in the graph of theta and t, but the pendulum quickly sett
  
  We have calculate the motion for several FD, where the behaviors are period 1,2,3. 
  ![](https://github.com/yyx1996/computational_physics_N2015301020105/raw/master/pic8-1.png)
+ 
+ 
  ![](https://github.com/yyx1996/computational_physics_N2015301020105/raw/master/pic8-2.png)
+ 
+ 
  ![](https://github.com/yyx1996/computational_physics_N2015301020105/raw/master/pic8-3.png)
  #### Poincare sections with different angular frequency
- [CODE2]
+ [CODE2](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/code8.2.py)
  ![](https://github.com/yyx1996/computational_physics_N2015301020105/raw/master/pic8-4.png)
+ 
+ 
  ![](https://github.com/yyx1996/computational_physics_N2015301020105/raw/master/pic8-5.png)
  ### Conclusion
  In the first problem we can draw a conclusion that if the behavior is period n, the attractor wiil contain n discrete points.
