@@ -39,3 +39,5 @@ l=1m, x=0.6m, k=1500
 
 ### 结论
 由两个扰动引起的波可以相互独立传播。波的形状和速度等性质在它们加入到一起之前和之后都是一样的。它们满足线性叠加原理。
+### 代码
+[souce code](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/code13.py)
