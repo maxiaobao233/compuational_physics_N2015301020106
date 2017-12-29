@@ -22,6 +22,7 @@
 为简单起见，我们把时间取为一年，则：
 
 
+
 ![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f3.png)
 
 
@@ -36,7 +37,7 @@
 ![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f5.png)
 
 
-如果我们考虑两个没有固定位置的两体问题，就会有八个方程：
+如果我们考虑两个没有固定位置的两体问题，就会有八个方程,变量如下：
 
 ![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f6.png)
 
@@ -45,8 +46,6 @@
 
 
 ![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f7.png)
-
-
 
 等等
 ### 数据分析
