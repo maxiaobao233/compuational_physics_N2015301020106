@@ -31,15 +31,17 @@
 ![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f4.png)
 
 
-对地球有：r=1(AU)如果我们考虑两个没有固定位置的两体问题，就会有八个方程：
+对地球有：![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f5.png)
 
-![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f5.png)
+如果我们考虑两个没有固定位置的两体问题，就会有八个方程：
+
+![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f6.png)
 
 
 等式的右边将是：
 
 
-![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f6.png)
+![](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f7.png)
 
 
 
