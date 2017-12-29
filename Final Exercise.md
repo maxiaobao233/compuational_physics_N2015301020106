@@ -105,12 +105,12 @@
 通过对太阳系的模拟，以此探索两体问题，我们可以得到：
 当两个物体具有相同的质量时，它们的轨迹是对称的，当它们具有不同的质量时，质量较大的轨道具有较小的半径；如果其中一个质量非常大时，则半径变为零，变成一个固定的物体。此外，轨迹会随着初始条件的不同而发生变化。
 ### 源代码
-[代码1:太阳与地球模拟]()
+[代码1:太阳与地球模拟](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f%E2%80%94code1.py)
 
-[代码2：3D太阳系]()
+[代码2：3D太阳系](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f-code2.py)
 
-[代码3：质量相等的两体问题]()
+[代码3：质量相等的两体问题](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f-code3.py)
 
-[代码4：3D双星]()
+[代码4：3D双星](https://github.com/maxiaobao233/compuational_physics_N2015301020106/blob/master/f-code4.py)
 
 
